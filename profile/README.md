@@ -4,7 +4,7 @@
 
 * 🌈这里是全球打工人联盟
 
-*访问地址 https://github.com/orgs/Workers-Union/discussions
+* 访问地址 https://github.com/orgs/Workers-Union/discussions
 <!--
 
 **以下是一些帮助您入门的想法：**
